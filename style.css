@@ -1,0 +1,22 @@
+.dabody{
+    text-align: center;
+    background-color: steelblue;
+}
+
+.dah2s{
+    font-size: 40px;
+    color:white;
+}
+
+.dah4s{
+    color: orange;
+}
+
+
+.daimgs{
+    width: 300px;
+}
+
+#result-MN,#result-MA{
+    border: 2px dashed orange;
+}
